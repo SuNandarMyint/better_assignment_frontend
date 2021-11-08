@@ -1,0 +1,7 @@
+.page-item.active .page-link {
+    background-color: #337ab7 !important;
+    border-color: #337ab7 !important;
+}
+tr {
+    cursor: pointer !important;
+}
